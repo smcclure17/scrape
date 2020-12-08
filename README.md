@@ -1,3 +1,3 @@
 # scrape
 
-Collection of Python scripts related to web-scraping
+Collection of short Python scripts related to web-scraping
