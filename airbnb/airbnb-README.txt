@@ -13,6 +13,6 @@ Potential Improvements:
 *******************************
 Update CSS tags (as mentioned above)
 Create df object instead of writing directly to CSV to allow summarization/analysis
-Use headless browser to search Airbnb site automatically to remove the need to manually grab the needed URL. 
+Use headless browser to search Airbnb site automatically to remove the need to manually grab the initial URL (search for specific cities from within Python.) 
 
 
