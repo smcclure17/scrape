@@ -4,7 +4,8 @@ Script to pull room attributes from an Airbnb search result. Attributes inlcude 
 Searches for and collects data from next page of results until the end is reached. 
 Uses string parsing to separate and isolate the desired attributes, ignoring unwanted text. 
 
-Aribnb has since changed their CSS such that the script no longer locates attributes correctly, (the names of the classes have changed.) However, if the CSS tags are updated, the program should function correctly.
+**Aribnb has since changed their CSS such that the script no longer locates attributes correctly, (the names of the classes have changed.) 
+However, if the CSS tags are updated, the program should function correctly.**
 
 rooms.csv is a sample output of what the script returns. 
 
