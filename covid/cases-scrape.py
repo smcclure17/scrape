@@ -39,7 +39,7 @@ options.add_experimental_option("prefs", {
 ############################################################################################################
 
 ## set driver and page load default time
-driver = webdriver.Chrome(executable_path='C:/Users/Sean McClure/Downloads/chromedriver', options=options)
+driver = webdriver.Chrome(executable_path='C:/Users/Sean McClure/Downloads/chromedriver', options=options) ##path to where chromedriver is located
 wait = WebDriverWait(driver, 10) #timeout after 10 seconds
 
 ## fetch page data of specified link
